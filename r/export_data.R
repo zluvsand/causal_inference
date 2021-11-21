@@ -1,6 +1,6 @@
-# PREREQUISITE: Make sure the set working directory to the
-# directory where this file is saved with the following step:
-# Session => Set Working Directory -> To Source File Location
+# PREREQUISITE: Change the working directory to the directory 
+# where this R file is saved with the following step:
+# Session -> Set Working Directory -> To Source File Location
 
 library("MatchIt")
 library(readr)
